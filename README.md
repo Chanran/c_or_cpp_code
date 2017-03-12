@@ -14,27 +14,37 @@
 
 > 使用齐次坐标计算和openGL库进行对三角形的平移、旋转、缩放。封装了一个矩阵乘法
 
+### Cohen_Sutherlan.cpp(裁剪)
+
+> 使用Cohen-Sutherlan算法和openGL库来进行裁剪
+
+### Bezier.cpp (贝塞尔曲线)
+
+> 套用贝塞尔曲线的公式和openGL库来进行画贝塞尔曲线
+
+### 
+
 ## 算法
 
 ### coinsGroups.cpp(钱币组合问题)
 
-具体看我的博客解释：[钱币组合问题](https://chanran.github.io/2016/12/23/moneyGroup/)
+> 具体看我的博客解释：[钱币组合问题](https://chanran.github.io/2016/12/23/moneyGroup/)
 
 ### intervalInsect.cpp(区间相交问题)
 
-具体看我的博客解释：[区间相交问题](https://chanran.github.io/2016/12/23/sectionIntersect/)
+> 具体看我的博客解释：[区间相交问题](https://chanran.github.io/2016/12/23/sectionIntersect/)
 
 ### buildBaseStation.cpp(基站建设)
 
-具体看我的博客解释：[基站建设](https://chanran.github.io/2016/12/24/baseStation/)
+> 具体看我的博客解释：[基站建设](https://chanran.github.io/2016/12/24/baseStation/)
 
 ### 01背包的三种算法(动态规划，贪心，回溯)
 
-1. 01backpack_dynamic_planning.cpp (动态规划)
-2. 01backpack_greedy.cpp (贪心)
-3. 01backpack_backTrack.cpp (回溯)
+> 1. 01backpack_dynamic_planning.cpp (动态规划)
+> 2. 01backpack_greedy.cpp (贪心)
+> 3. 01backpack_backTrack.cpp (回溯)
 
-具体看我的博客解释：[01背包的三种算法](https://chanran.github.io/2016/12/31/01package-algorithm/)
+> 具体看我的博客解释：[01背包的三种算法](https://chanran.github.io/2016/12/31/01package-algorithm/)
 
 ### findLargestKmin (从两个有序的数组里找出第K小的数)
 
@@ -57,28 +67,28 @@
 
 > 主要是考察C++动态数组vector
 
-具体看我的博客解释：[寻找最大子矩阵](https://chanran.github.io/2016/12/16/find-largest-matrix-block/)
+> 具体看我的博客解释：[寻找最大子矩阵](https://chanran.github.io/2016/12/16/find-largest-matrix-block/)
 
 ### complexClass(复数类)
 
 > 主要是考察C++运算符重载
 
-具体看我的博客解释：[Complex类，运算符重载](https://chanran.github.io/2016/12/16/operator-overloading/)
+> 具体看我的博客解释：[Complex类，运算符重载](https://chanran.github.io/2016/12/16/operator-overloading/)
 
 ### checkAccount(模拟银行账户)
 
 > 主要是考察C++面向对象的知识
 
-暂无博客解释
+> 暂无博客解释
 
 ### spit_and_merge_file.cpp(分割与合并文件)
 
 > 主要是考察C++文件读写
 
-具体看我的博客解释：[分割与合并文件](https://chanran.github.io/2016/12/16/split-merge-file/)
+> 具体看我的博客解释：[分割与合并文件](https://chanran.github.io/2016/12/16/split-merge-file/)
 
 ### countWordSTL.cpp(统计文件单词数目)
 
 > 主要是考察C++ STL
 
-暂无博客解释
+> 暂无博客解释
